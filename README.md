@@ -1,4 +1,6 @@
-diff script, comparing between files in two trees of directory
+diff script
+==================
+comparing between files in two trees of directory
 
 1. find a file NAME1 in the first directory
 2. find a file NAME2 with the same name of NAME1 in the second directory((string) NAME1= (string) NAME2)
